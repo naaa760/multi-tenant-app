@@ -1,0 +1,12 @@
+const CHUNK_PUBLIC_PATH = "server/app/api/auth/[kindeAuth]/route.js";
+const runtime = require("../../../../chunks/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/node_modules_next_563d88._.js");
+runtime.loadChunk("server/chunks/node_modules_@kinde-oss_kinde-typescript-sdk_dist_models_763061._.js");
+runtime.loadChunk("server/chunks/node_modules_@kinde-oss_kinde-typescript-sdk_dist_apis_69fc0d._.js");
+runtime.loadChunk("server/chunks/node_modules_@kinde-oss_kinde-typescript-sdk_dist_sdk_7ba38f._.js");
+runtime.loadChunk("server/chunks/node_modules_@kinde-oss_kinde-typescript-sdk_dist_cf6b04._.js");
+runtime.loadChunk("server/chunks/node_modules_jose_dist_node_esm_15a73d._.js");
+runtime.loadChunk("server/chunks/node_modules_@kinde-oss_kinde-auth-nextjs_dist_server_index_ecf574.js");
+runtime.loadChunk("server/chunks/node_modules_dad4e5._.js");
+runtime.loadChunk("server/chunks/app_api_auth_[kindeAuth]_route_ts_b50395._.js");
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/auth/[kindeAuth]/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)", CHUNK_PUBLIC_PATH).exports;

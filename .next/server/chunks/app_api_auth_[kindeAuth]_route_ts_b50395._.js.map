@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/api/auth/[kindeAuth]/route.ts"],"sourcesContent":["import { handleAuth } from \"@kinde-oss/kinde-auth-nextjs/server\";\nexport const GET = handleAuth();\n"],"names":[],"mappings":";;;;;;AACO,MAAM,MAAM,CAAA,GAAA,sLAAA,CAAA,aAAU,AAAD"}},
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

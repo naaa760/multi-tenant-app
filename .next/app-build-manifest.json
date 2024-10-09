@@ -1,0 +1,41 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/app_caee33._.css",
+      "static/chunks/_801dfb._.js",
+      "static/chunks/app_layout_tsx_a592a8._.js",
+      "static/chunks/node_modules_next_dist_compiled_react_a1d82d._.js",
+      "static/chunks/dd92d_modules_next_dist_compiled_react-dom_cjs_react-dom-client_development_a97120.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_cjs_react-dom_development_c9a189.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_87a050._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_2312f3._.js",
+      "static/chunks/node_modules_next_dist_compiled_14800a._.js",
+      "static/chunks/node_modules_next_dist_client_35ffaf._.js",
+      "static/chunks/node_modules_next_dist_f709b7._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636a._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_d12860._.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_b07f59.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_6e0d0f.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/app_caee33._.css",
+      "static/chunks/_801dfb._.js",
+      "static/chunks/app_layout_tsx_a592a8._.js",
+      "static/chunks/node_modules_e944d4._.js",
+      "static/chunks/_68dd4b._.js",
+      "static/chunks/app_dashboard_layout_tsx_034220._.js",
+      "static/chunks/node_modules_next_dist_compiled_react_a1d82d._.js",
+      "static/chunks/dd92d_modules_next_dist_compiled_react-dom_cjs_react-dom-client_development_a97120.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_cjs_react-dom_development_c9a189.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_87a050._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_2312f3._.js",
+      "static/chunks/node_modules_next_dist_compiled_14800a._.js",
+      "static/chunks/node_modules_next_dist_client_35ffaf._.js",
+      "static/chunks/node_modules_next_dist_f709b7._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636a._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_d12860._.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_cf487b.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_b2f70a.js"
+    ]
+  }
+}
